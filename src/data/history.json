@@ -1,0 +1,25 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Accenture",
+    "startDate": "Dec, 2021",
+    "endDate": "Present",
+    "responsibilities": [
+                    "Led front-end development with React, Redux.", 
+                    "Collaborated with designers for intuitive interfaces.", 
+                    "Integrated RESTful APIs for interactivity.",
+                    "Enhanced internal tools, boosting productivity 15%.",
+                    "Optimized apps, reducing load times 25%.",
+                    "Developed reusable components for efficiency."
+                    ],
+    "achievements": [
+                    "Redesigned dashboard, boosting engagement 20%.",
+                    "Migrated legacy app to React.",
+                    "Optimized client portal, boosting efficiency 30%.",
+                    "Enhanced tools, improving productivity 15%."
+                    ],
+
+    "imageSrc": "history/accenture.png"
+  }
+  
+]
