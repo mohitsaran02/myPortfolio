@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Accenture",
+    "startDate": "Dec, 2021",
+    "endDate": "Present",
+    "responsibilities": [                 
+                    "Led the full-stack migration of a company-specific AI tool from legacy HTML, CSS, and JavaScript to a modern stack   using React , Next.js , FastAPI , and Material UI .", 
+                    "Architected and Integrated a chatbot-like interface leveraging Claude 3.7 Sonnet , GPT-4.1 and o4-mini for contextual, intelligent responses.",
+                    "Created Swagger based REST APIs to standardize communication between frontend and backend.",
+                    "Worked in Agile teams to ensure scalable, high- performance, business-aligned solutions.",
+                    "Worked closely with AI engineers to fine-tune prompt handling and improve accuracy and response speed of generative features."
+                    ],
+    "achievements": [
+                    "Reduced legacy maintenance overhead by migrating to a scalable and modern tech stack.",
+                    "Increased system reliability and UI responsiveness, leading to a 35% improvement in feature usage and user satisfaction .",
+                    "Enhanced development velocity with modular, reusable code and cleaner API contracts.",
+                    "Successfully deployed new features ahead of schedule, improving internal productivity and tool adoption across departments."
+                    ],
+
+    "imageSrc": "history/accenture.png"
+  }
+  
+]

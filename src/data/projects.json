@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Flipkart Clone",
+    "imageSrc": "projects/flipkar-clone.png",
+    "description": " Built a Flipkart clone with JWT auth, product management, cart, checkout, payments, and responsive Material UI-based design.",
+    "skills": ["React", "Redux", "Firebase", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "Material UI", "JWT", "bcrypt", "Razorpay Payment Gateway"],
+    "demo": "https://flipkart-clone-mohit-sarans-projects.vercel.app/",
+    "source": "https://github.com/mohitsaran02/flipkart-clone"
+  },
+  {
+    "title": "Codio-Call",
+    "imageSrc": "projects/codeo-call.jpg",
+    "description": "Developed a remote interview platform with video calls, screen sharing, recording, coding, role access, routing, question tracking, and responsive UI.",
+    "skills": ["React","Next.js", "Tailwind CSS", "Shadcn UI","Clerk","Stream","Convex"],
+    "demo": "https://codeo-call.vercel.app/",
+    "source": "https://github.com/mohitsaran02/codeo-call"
+  },
+  {
+    "title": "My Portfolio",
+    "imageSrc": "projects/portfolio1.png",
+    "description": "This is my portfolio website showcasing all of my work history using my development and designing skills.",
+    "skills": ["React", "Tailwind CSS", "Figma"],
+    "demo": "https://my-portfolio-one-beta-69.vercel.app/",
+    "source": "https://github.com/mohitsaran02/myPortfolio"
+  }
+]

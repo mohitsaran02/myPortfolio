@@ -1,0 +1,62 @@
+[
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Material UI",
+    "imageSrc": "skills/Material_UI.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/Tailwind_CSS.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/Redux.png"
+  },
+  {
+    "title": "Next.js",
+    "imageSrc": "skills/Next.js.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express",
+    "imageSrc": "skills/Express.png"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Convex",
+    "imageSrc": "skills/convex.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/Firebase.png"
+  },
+  {
+    "title": "Clerk",
+    "imageSrc": "skills/clerk.png"
+  },
+  {
+    "title": "JWT",
+    "imageSrc": "skills/jwt.png"
+  },
+  {
+    "title": "Stream",
+    "imageSrc": "skills/stream.png"
+  },
+  {
+    "title": "Shadcn UI",
+    "imageSrc": "skills/shadcn-ui.png"
+  }
+]
